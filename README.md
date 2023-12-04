@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple implementation of the classic Rock, Paper, Scissors game in [programming language]. It allows users to play the game against the computer, making selections of either rock, paper, or scissors.
+This is a simple implementation of the classic Rock, Paper, Scissors game in c++. It allows users to play the game against the computer, making selections of either rock, paper, or scissors.
 
 ## Features
 
