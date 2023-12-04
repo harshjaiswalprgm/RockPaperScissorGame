@@ -1,4 +1,3 @@
-# RockPaperScissorGame
 # Rock, Paper, Scissors Game
 
 ## Overview
