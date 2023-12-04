@@ -30,7 +30,7 @@ int main()
   do
   {
     // Prompt the user to enter their throw, store it into player_throw
-    cout << "Select your throw." << endl;
+    cout << "Show you hand gesture.." << endl;
     cout << "1) Rock" << endl;
     cout << "2) Paper" << endl;
     cout << "3) Scissors" << endl;
