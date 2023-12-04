@@ -1,25 +1,3 @@
-// # Query: 
-// # ContextLines: 1
-
-// * Program: Rock Paper Scissors Game
-// * 
-// * Description: Rock paper scissors game implementation in C++.  Learn more about
-// * the game here: https://en.wikipedia.org/wiki/Rock_paper_scissors.
-// *
-
-// *
-// *******************************************************************************/
-
-// In the game of rock paper scissors both players make a "throw" of either 
-// rock, paper or scissors, and the result of the game is decided with:
-//
-// rock beats scissors
-// paper beats rock
-// scissors beats paper
-//
-// all other states result in a draw, and the game is played again until there 
-// is a winner.
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -48,7 +26,7 @@ int main()
   int ai_throw = 0;
   bool draw = false;
   
-  // Continually play the game until there is a winner
+  // Continous play the game until there is a winner not ..
   do
   {
     // Prompt the user to enter their throw, store it into player_throw
